@@ -1,0 +1,408 @@
+/* google font link */
+@import url('https://fonts.googleapis.com/css?family=Bitter:700&display=swap');
+/* font-family: 'Noto Serif', serif; */
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Bitter', serif;
+    color: white;
+    text-transform: capitalize;
+}
+body{
+    background-color: #1d1d23;;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+/* navbar section start */
+header{
+    /* background-image: url(../images/banner-bg.png); */
+    /* background-position: center center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* height: 85vh; */
+}
+
+.top {
+    right: 0;
+    bottom: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 0 7px;
+    /* background-color: chartreuse; */
+    border-radius: 18px;
+    background-color: transparent!important;
+}
+.to-top-button.bp-br.bm-2{
+    display: none!important;
+}
+.top i {
+    color: #e9a438;
+}
+.top:hover i{
+    color: #e03334;
+}
+.navbar{
+}
+.logo-center{
+
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+    z-index: 1;
+}
+.logo-left{
+    
+display: none;
+}
+.navbar-brand{
+    margin-top: 18px;
+}
+.nav-link{
+    color: white!important;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-right: 17px;
+}
+
+.nav-link:hover{
+    color: #e9a438!important;
+    transition: .4s ease-in-out;
+}
+/* banner section start */
+.hg{
+    
+height: 561px;
+}
+.typed{
+    color: #e9a438;
+}
+.piza_img img{
+    width: 100%;
+}
+.piza_content{
+    margin-left: 44px;
+}
+.piza_content h1{
+    color: #e9a438;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 38pt;
+    padding-right: 48px;
+}
+.piza_content p{
+    color: white;
+    font-weight: 600; 
+    padding-right: 43px;  
+    margin: 14px 0;
+}
+.btn_custom_1{
+    background: #e9a438;
+    text-transform: capitalize;
+    font-weight: 600;
+    padding: 11px 15px;
+}
+/* about us section start */
+.about_us{
+    background-color: #1d1d23;
+}
+.about_img{
+
+margin-top: 9%;
+}
+.about_img img{
+    width: 100%;
+}
+.about_content{
+
+}
+
+.about_content h2{
+
+}
+.about_content h5{
+
+}
+/* .about_us section end */
+/* our_food quality section start */
+.our_food{
+    /* background-color:#1d1d23; */
+    /* background-image: url(../images/bg-2.png); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* min-height: 0; */
+    /* background-position: center; */
+}
+.parallax-window {
+    min-height: 0px;
+    background: transparent;
+}
+.o_hg{
+    height: 71vh;
+}
+.food_content{
+    /* margin-top: -400px; */
+}
+.food_content h1{
+
+font-size: 34pt;
+    margin-bottom: 20px;
+}
+.food_content h5{
+    
+}
+/* our_food quality section end */
+/* our_food gallery section start */
+.our_gallery{
+
+    background-color: #1d1d23;
+}
+.gallery_content{text-align: center;
+    padding: 34px 0;
+    text-transform: capitalize;
+}
+.our_img{
+
+}
+.our_img img{   
+    width: 100%;  
+    margin-bottom: 45px;
+}
+/* our_food gallery section end */
+/* enjoy section start */
+
+.custom_height_1{
+    height: 720px;
+}
+.enjoy_content{
+    border: 5px solid #eaa533;
+    padding: 46px 28px;
+}
+
+/* enjoy section end */
+/* our_menu section start */
+.our_menu{
+
+}
+.menu_header{
+    padding-top: 91px;
+    padding-bottom: 58px;
+}
+.menu_header h1{
+    
+}
+.menu_img{
+
+}
+.menu_img img{
+
+    width: 100%;
+}
+.menu_content{
+
+}
+.menu_content h5{
+    margin-top: 22px;
+}
+.menu_content a{
+    color: #eaa533;
+    text-transform: uppercase;
+    font-size: 23px;
+}
+.menu_content p{
+
+}
+.menu_content h6{
+    color: #eaa533;
+    font-size: 20px;
+}
+.menu_img{
+    position: relative;
+    cursor: pointer;
+}
+.menu_img ul{
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    left: 36%;
+    transform: translate(0px, 0px);
+    transition: .7s;
+    z-index: 1;
+}
+.all-menu:hover .menu_img ul{
+
+top: 38%;
+
+opacity: 1;
+
+
+}
+.menu_img li{
+    
+list-style: none;
+    
+font-size: 27px;
+    
+color: #ffffff;
+    
+text-align: center;
+}
+.menu_img::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    background-color: #eaa533;
+    top: 38%;
+    z-index: 1;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: .4s;
+}
+
+/* our_menu section end */
+/* enjoy best meal section start */
+.best_meal{
+    background-image: url(../images/best_meal.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 88vh;
+    margin-top: 100px;
+}
+.custom-margin{
+    
+}
+.meal_height{
+    justify-content: flex-end;
+    height: 38rem;
+}
+.meal_content{
+}
+.meal_content h1{margin-top: 6%;}
+.meal_content h5{
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
+/* enjoy best meal section end */
+/* footer section start */
+.footer{
+background-color: #323239;
+}
+.bottom_logo{
+
+}
+.bottom_logo img{
+
+width: 100%;
+}
+.bottom_nav{
+
+}
+.bottom_nav ul{
+
+}
+.bottom_nav li{
+
+list-style: none;
+}
+.bottom_nav a{
+    font-size: 18px;
+    text-transform: uppercase
+    ;color: #e7e6e6;
+}
+.icons{
+
+}
+.icons ul{
+
+}
+.icons li{
+
+height: 37px;
+
+width: 37px;
+
+background: white;
+
+list-style: none;
+
+text-align: center;
+
+line-height: 43px;
+
+border-radius: 26px;
+}
+.icons a{
+
+}
+.icons i{
+    
+color: #323239;
+    
+font-size: 25px;
+}
+
+/* footer section end */
+/* #############-hover section start-#################### */
+.our_img:hover img{
+    border: 2px solid #e9a438;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .5s;
+}
+.our_gallery:hover h1{
+    color: #e9a438;
+    cursor: pointer;
+}
+.bottom_nav li:hover a{
+    color: #e9a438;
+    text-decoration: none;
+    transition: .4s;
+}
+.enjoy_content:hover h1{
+    color: #e9a438;
+    cursor: pointer;
+    transition: .4s;
+ 
+}
+.enjoy_content:hover h5{
+    color: #e9a438;
+    cursor: pointer;
+    transition: .4s;
+}
+.enjoy_content:hover{
+    border-radius: 20px;
+    transition: .5s;
+}
+.icons li:hover i{
+    color: #e9a438;
+    transition: .5s;
+
+}
+.icons li:hover{
+    background-color: #323239;
+    transition: .4s;
+}
+.our_menu:hover .hov-1{
+    color: #eaa533;
+    transition: .5s;
+}
+.all-menu:hover .menu_img::after{
+    opacity: .6;
+    top: 0;
+    transition: 0.7s;
+    z-index: 0;
+}
+.enjoy_content:hover span {
+    color: #e9a438;
+    cursor: pointer;
+    transition: .4s;
+}
+.parallaxie{
+    min-height: 360px;
+}
+/* #############-hover section end-#################### */

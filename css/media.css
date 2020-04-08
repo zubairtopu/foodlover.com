@@ -1,0 +1,1248 @@
+/* @media(min-width:1440px) and (max-width:374.98px){
+
+} */
+/* for laptop-1024px (.col-xl) */
+/* @media(min-width:1024px) and (max-width:1439.98px){
+
+} */
+@media(min-width:1200px){
+    /* ################-navbar section start-######################## */
+    
+    /* ################-navbar section end-######################## */
+    
+    /* ################-banner section start-######################## */
+    
+    /* ################-banner section end-######################## */
+    
+    /* ################-about-us section start-######################## */
+    
+    /* ################-about-us section end-######################## */
+    
+    /* ################-our-food section start-######################## */
+    
+    /* ################-our-food section end-######################## */
+    
+    /* ################-gallery section start-######################## */
+    
+    /* ################-gallery section end-######################## */
+    
+    /* ################-enjoy section start-######################## */
+    
+    /* ################-enjoy section end-######################## */
+    
+    /* ################-menu section start-######################## */
+    
+    /* ################-menu section end-######################## */
+    
+    /* ################-best section start-######################## */
+    .meal_height {
+        height: 29rem;
+    }
+    /* ################-best section end-######################## */
+    
+    /* ################-footer section start-######################## */
+    footer{
+    margin: 37px 0;
+    }
+    /* ################-footer section end-######################## */
+    }
+    /* for tablet-768px (.col-lg) */
+    @media(min-width:992px) and (max-width:1199.98px){
+    /* ################-navbar section start-######################## */
+    
+    /* ################-navbar section end-######################## */
+    
+    /* ################-banner section start-######################## */
+    .piza_content {
+        margin-left: 0;
+    }
+    /* ################-banner section end-######################## */
+    
+    /* ################-about-us section start-######################## */
+    .about_content h2 {
+        font-size: 3rem;
+    }
+    /* ################-about-us section end-######################## */
+    
+    /* ################-our-food section start-######################## */
+    
+    /* ################-our-food section end-######################## */
+    
+    /* ################-gallery section start-######################## */
+    
+    /* ################-gallery section end-######################## */
+    
+    /* ################-enjoy section start-######################## */
+    
+    /* ################-enjoy section end-######################## */
+    
+    /* ################-menu section start-######################## */
+    
+    /* ################-menu section end-######################## */
+    
+    /* ################-best section start-######################## */
+    .best_meal {
+    min-height: 77vh;
+    }
+    .best_meal {
+        margin-top: 0;
+    }
+    .meal_height {
+        height: 27rem;
+    }
+    /* ################-best section end-######################## */
+    
+    /* ################-footer section start-######################## */
+    footer{
+        margin-bottom: 2%;
+    }
+    /* ################-footer section end-######################## */
+    }
+    @media(min-width:992px) and (max-width:1199.98px){
+        .menu_img ul {
+            left: 30%;
+        }
+        .our_menu {
+            margin-bottom: 11%;
+        }
+        .enjoy_content {
+            padding: 34px 14px;
+        }
+    }
+    /* for mobile l-425px (.col-md) */
+    @media(min-width:768px) and (max-width:991.98px){
+    /* ################-navbar section start-######################## */
+    .logo-left {
+        display: block;
+    }
+    .logo-center {
+        display: none;
+    }
+    .navbar-nav{
+
+    }
+    
+    /* ################-navbar section end-######################## */
+    
+    /* ################-banner section start-######################## */
+    header {
+        height: 71vh;
+    }
+    .hg {
+        height: 386px;
+    }
+    .piza_content {
+        margin-left: 0;
+    text-align: center;
+    }
+    .piza_content h1 {
+        font-size: 33pt;
+        padding-right: 0px;
+    }
+    .piza_content p {
+        padding-right: 0;
+    }
+    /* ################-banner section end-######################## */
+    
+    /* ################-about-us section start-######################## */
+    .about_img {
+        margin-top: 0;
+    }
+    /* ################-about-us section end-######################## */
+    
+    /* ################-our-food section start-######################## */
+    .food_content h1 {
+        font-size: 29pt;
+    }
+    /* ################-our-food section end-######################## */
+    
+    /* ################-gallery section start-######################## */
+    
+    /* ################-gallery section end-######################## */
+    
+    /* ################-enjoy section start-######################## */
+    
+    /* ################-enjoy section end-######################## */
+    
+    /* ################-menu section start-######################## */
+    
+    /* ################-menu section end-######################## */
+    
+    /* ################-best section start-######################## */
+    .best_meal {
+        background-size: cover;
+        min-height: 0;
+    }
+    .meal_height {
+        justify-content: center!important;
+        align-items: center!important;
+    }
+    /* ################-best section end-######################## */
+    
+    /* ################-footer section start-######################## */
+    footer{
+        margin-bottom: 2%;
+    }
+    /* ################-footer section end-######################## */
+    /* ###############-hover section start-######################### */
+    .all-menu:hover .menu_img ul {
+        top: 32%;
+        
+    }
+    .menu_img ul {
+        left: 24%;
+    }
+ }
+    
+    /* for mobile m-375px (.col-sm) */
+    @media(min-width:576px) and (max-width:767.98px){
+                 /* ################-navbar section start-######################## */
+                 header {
+                    height: 59vh;
+                }
+                .logo-center {
+                    display: none;
+                }
+                .logo-left {
+                    margin-bottom: 13px;
+                    display: inline-block;
+                }
+                
+                /* ################-navbar section end-######################## */
+                
+                /* ################-banner section start-######################## */
+                .piza_content {
+                    margin-left: 0px;
+                    text-align: center;
+                }
+                .piza_img{
+                    margin-bottom: 20px;
+                }
+                .hg {
+                    height: 0;
+                }
+                .piza_content h1 {
+                    color: #e9a438;
+                    text-transform: capitalize;
+                    font-weight: bold;
+                    font-size: 24pt;
+                    padding-right: 0px;
+                }
+                .piza_content p {
+                    color: white;
+                    font-weight: 600;
+                    padding-right: 0px;
+                    margin: 14px 0;
+                }
+                /* ################-banner section end-######################## */
+                
+                /* ################-about-us section start-######################## */
+                .about_us {
+                    margin-bottom: 37px;
+                }
+                .about_content {
+                    text-align: center;
+                    margin: 0 0;
+                }
+                .about_content h5 {
+                    font-size: 1rem;
+                }
+                /* ################-about-us section end-######################## */
+                
+                /* ################-our-food section start-######################## */
+                .food_content h1 {
+                    /* font-size: 34pt; */
+                    /* margin-bottom: 20px; */
+                    font-size: 28px;
+                }
+                .o_hg {
+                    height: 53vh;
+                }
+                .food_content h5 {
+                    font-size: 1rem;
+                }
+                .our_food {
+                    /* background-image: url(../images/enjoy.png); */
+                    /* background-size: cover; */
+                    /* background-position: center; */
+                    min-height: 20vh;
+                }
+                .food_content {
+                    /* margin-top: -400px; */
+                    margin: 0% 13%;
+                    margin-bottom: 0;
+                    text-align: center!important;
+                }
+                
+                /* ################-our-food section end-######################## */
+                
+                /* ################-gallery section start-######################## */
+                .gallery_content h1{
+                    font-size: 34px;
+                }
+                /* ################-gallery section end-######################## */
+                
+                /* ################-enjoy section start-######################## */
+                .enjoy_content:hover span {
+                    color: #e9a438;
+                    cursor: pointer;
+                    transition: .4s;
+                }
+                .enjoy {
+                    min-height: 58vh;
+                }
+                .custom_height_1 {
+                    height: 0;
+                }
+                .enjoy_content {
+                    border: 5px solid #eaa533;
+                    padding: 9px 4px;
+                    margin-top: 16%;
+                    /* margin-right: 38px; */
+                    /* margin-left: 38px; */
+                }
+                .enjoy_content h1{
+                font-size: 35px;
+                }
+                .enjoy_content h5{
+                font-size: 16px;
+                }
+            /* ################-enjoy section end-######################## */
+                
+            /* ################-menu section start-######################## */
+                .menu_header {
+                    padding-top: 36px;
+                    padding-bottom: 25px;
+                }
+                .menu_img ul {
+                    left: 30%;
+                }
+                .all-menu:hover .menu_img ul {
+                top: 33%;
+                opacity: 1;
+                }
+                .menu_img li {
+                list-style: none;
+                font-size: 21px;
+                color: #ffffff;
+                text-align: center;
+                }
+                .menu_content {
+                    text-align: center;
+                    margin-bottom: 27px;
+                }
+                .menu_content a {
+                    color: #eaa533;
+                    text-transform: uppercase;
+                    font-size: 1.25rem;
+                }
+                .menu_content h6 {
+                color: #eaa533;
+                font-size: 19px;
+                }
+                .menu_content p {
+                    font-size: 15px;
+                }
+                .less{
+                    display: none;
+                }
+                .over{
+                    display: inline!important;
+                }
+                /* ################-menu section end-######################## */
+                
+                /* ################-best section start-######################## */
+                .best_meal {
+                    background-image: url(../images/best_meal.png);
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    min-height: 75vh;
+                    margin-top: 0;
+                }
+                .meal_height {
+                    justify-content: flex-end;
+                    height: 26rem;
+                }
+                .custom-margin {
+                    margin-left: auto;
+                }
+                .meal_content {
+                    text-align: center;
+                }
+                .meal_content h5 {
+                    margin-top: 20px;
+                    line-height: 1.5;
+                    color: #1f222f;
+                    font-size: 15px;
+                }
+                .meal_content h1 {
+                    margin-top: 6%;
+                    font-size: 32px;
+                    color: #1f222f;
+                }
+                .dark{
+                    color: #1f222f;
+                }
+                /* ################-best section end-######################## */
+                
+                /* ################-footer section start-######################## */
+                .bottom_nav ul {
+                    display: block!important;
+                }
+                .bottom_nav {
+                    margin-top: 20px!important;
+                }
+                .bottom_nav li {
+                    list-style: none;
+                    text-align: center;
+                    margin-bottom: 9px;
+                }
+                footer{
+                    margin-bottom: 20px;
+                }
+                .icons li {
+                    height: 33px;
+                    width: 33px;
+                    line-height: 36px;
+                }
+                .icons i {
+                    font-size: 21px;
+                }
+    }
+@media(min-width:440px) and (max-width:575.98px){
+                /* ################-navbar section start-######################## */
+                header {
+                    height: auto;
+                }
+                .top{
+                    display: inline!important;
+                }
+                .logo-center {
+                    display: none;
+                }
+                .logo-left {
+                    margin-bottom: 13px;
+                    display: inline-block;
+                }
+                
+                /* ################-navbar section end-######################## */
+                
+                /* ################-banner section start-######################## */
+                .piza_content {
+                    margin-left: 0px;
+                    text-align: center;
+                    margin-bottom: 63px!important;
+                }
+                .hg {
+                    height: auto;
+                }
+                .piza_img{
+                    margin-bottom: 20px;
+                }
+                .piza_content h1 {
+                    color: #e9a438;
+                    text-transform: capitalize;
+                    font-weight: bold;
+                    font-size: 25pt;
+                    padding-right: 0px;
+                }
+                .piza_content p {
+                    color: white;
+                    font-weight: 600;
+                    padding-right: 0px;
+                    margin: 14px 0;
+                }
+                /* ################-banner section end-######################## */
+                
+                /* ################-about-us section start-######################## */
+                .about_us {
+                    margin-bottom: 37px;
+                }
+                .about_content {
+                    text-align: center;
+                    margin: 0 10%;
+                }
+                .about_content h5 {
+                    font-size: 1rem;
+                }
+                /* ################-about-us section end-######################## */
+                
+                /* ################-our-food section start-######################## */
+                .food_content h1 {
+                    /* font-size: 34pt; */
+                    /* margin-bottom: 20px; */
+                    font-size: 34px;
+                }
+                .o_hg {
+                    height: 53vh;
+                }
+                .food_content h5 {
+                    font-size: 1rem;
+                }
+                .our_food {
+                    /* background-image: url(../images/enjoy.png); */
+                    /* background-size: cover; */
+                    /* background-position: center; */
+                    min-height: 20vh;
+                }
+                .food_content {
+                    /* margin-top: -400px; */
+                    margin: 0% 13%;
+                    margin-bottom: 0;
+                    text-align: center!important;
+                }
+                /* ################-our-food section end-######################## */
+                
+                /* ################-gallery section start-######################## */
+                .gallery_content h1{
+                    font-size: 34px;
+                }
+                /* ################-gallery section end-######################## */
+                
+                /* ################-enjoy section start-######################## */
+                .enjoy_content:hover span {
+                    color: #e9a438;
+                    cursor: pointer;
+                    transition: .4s;
+                }
+                .enjoy {
+                    min-height: 55vh;
+                }
+                .custom_height_1 {
+                    height: 0;
+                }
+                .enjoy_content {
+                    border: 5px solid #eaa533;
+                    padding: 9px 4px;
+                    margin-top: 16%;
+                    margin-right: 38px;
+                    margin-left: 38px;
+                }
+                .enjoy_content h1{
+                font-size: 35px;
+                }
+                .enjoy_content h5{
+                font-size: 16px;
+                }
+            /* ################-enjoy section end-######################## */
+                
+            /* ################-menu section start-######################## */
+                .menu_header {
+                    padding-top: 36px;
+                    padding-bottom: 25px;
+                }
+                .menu_img ul {
+                    left: 30%;
+                }
+                .all-menu:hover .menu_img ul {
+                top: 33%;
+                opacity: 1;
+                }
+                .menu_img li {
+                list-style: none;
+                font-size: 21px;
+                color: #ffffff;
+                text-align: center;
+                }
+                .menu_content {
+                    text-align: center;
+                    margin-bottom: 52px;
+                }
+                .menu_content a {
+                    color: #eaa533;
+                    text-transform: uppercase;
+                    font-size: 1.25rem;
+                }
+                .menu_content h6 {
+                color: #eaa533;
+                font-size: 19px;
+                }
+                .menu_content p {
+                    font-size: 15px;
+                }
+                .less{
+                    display: none;
+                }
+                .over{
+                    display: inline!important;
+                }
+                /* ################-menu section end-######################## */
+                
+                /* ################-best section start-######################## */
+                .best_meal {
+                    background-image: url(../images/best_meal.png);
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    min-height: 75vh;
+                    margin-top: 0;
+                }
+                .meal_height {
+                    justify-content: flex-end;
+                    height: 26rem;
+                }
+                .custom-margin {
+                    margin-left: auto;
+                }
+                .meal_content {
+                    text-align: center;
+                }
+                .meal_content h5 {
+                    margin-top: 20px;
+                    line-height: 1.5;
+                    color: #1f222f;
+                    font-size: 15px;
+                }
+                .meal_content h1 {
+                    margin-top: 6%;
+                    font-size: 32px;
+                    color: #1f222f;
+                }
+                .dark{
+                    color: #1f222f;
+                }
+                /* ################-best section end-######################## */
+                
+                /* ################-footer section start-######################## */
+                .bottom_nav ul {
+                    display: block!important;
+                }
+                .bottom_nav {
+                    margin-top: 20px!important;
+                }
+                .bottom_nav li {
+                    list-style: none;
+                    text-align: center;
+                    margin-bottom: 9px;
+                }
+                footer{
+                    margin-bottom: 20px;
+                }
+                .icons li {
+                    height: 33px;
+                    width: 33px;
+                    line-height: 36px;
+                }
+                .icons i {
+                    font-size: 21px;
+                }
+}
+ @media(min-width:425px) and (max-width:439.98px){
+     .top{
+         display: inline!important;
+     }
+               /* ################-navbar section start-######################## */
+    header {
+        height: 103vh;
+    }
+    .logo-center {
+        display: none;
+    }
+    .logo-left {
+        margin-bottom: 13px;
+        display: inline-block;
+    }
+    
+    /* ################-navbar section end-######################## */
+    
+    /* ################-banner section start-######################## */
+    .piza_content {
+        margin-left: 0px;
+        text-align: center;
+    }
+    .piza_img{
+        margin-bottom: 20px;
+    }
+    .piza_content h1 {
+        color: #e9a438;
+        text-transform: capitalize;
+        font-weight: bold;
+        font-size: 25pt;
+        padding-right: 0px;
+    }
+    .piza_content p {
+        color: white;
+        font-weight: 600;
+        padding-right: 0px;
+        margin: 14px 0;
+    }
+    /* ################-banner section end-######################## */
+    
+    /* ################-about-us section start-######################## */
+    .about_us {
+        margin-bottom: 37px;
+    }
+    .about_content {
+        text-align: center;
+        margin: 0 10%;
+    }
+    .about_content h5 {
+        font-size: 1rem;
+    }
+    /* ################-about-us section end-######################## */
+    
+    /* ################-our-food section start-######################## */
+    .food_content h1 {
+        /* font-size: 34pt; */
+        /* margin-bottom: 20px; */
+        font-size: 34px;
+    }
+    .o_hg {
+        height: 53vh;
+    }
+    .food_content h5 {
+        font-size: 1rem;
+    }
+    .our_food {
+        /* background-image: url(../images/enjoy.png); */
+        /* background-size: cover; */
+        /* background-position: center; */
+        min-height: 20vh;
+    }
+    .food_content {
+        /* margin-top: -400px; */
+        margin: 0% 13%;
+        margin-bottom: 0;
+        text-align: center!important;
+    }
+    /* ################-our-food section end-######################## */
+    
+    /* ################-gallery section start-######################## */
+    .gallery_content h1{
+        font-size: 34px;
+    }
+    /* ################-gallery section end-######################## */
+    
+    /* ################-enjoy section start-######################## */
+    .enjoy_content:hover span {
+        color: #e9a438;
+        cursor: pointer;
+        transition: .4s;
+    }
+    .enjoy {
+        min-height: 55vh;
+    }
+    .custom_height_1 {
+        height: 0;
+    }
+    .enjoy_content {
+        border: 5px solid #eaa533;
+        padding: 9px 4px;
+        margin-top: 16%;
+        margin-right: 11px;
+        margin-left: 11px;
+    }
+    .enjoy_content h1{
+    font-size: 35px;
+    }
+    .enjoy_content h5{
+    font-size: 16px;
+    }
+/* ################-enjoy section end-######################## */
+    
+/* ################-menu section start-######################## */
+    .menu_header {
+        padding-top: 36px;
+        padding-bottom: 25px;
+    }
+    .menu_img ul {
+        left: 30%;
+    }
+    .all-menu:hover .menu_img ul {
+    top: 33%;
+    opacity: 1;
+    }
+    .menu_img li {
+    list-style: none;
+    font-size: 21px;
+    color: #ffffff;
+    text-align: center;
+    }
+    .menu_content {
+        text-align: center;
+        margin-bottom: 27px;
+    }
+    .menu_content a {
+        color: #eaa533;
+        text-transform: uppercase;
+        font-size: 1.25rem;
+    }
+    .menu_content h6 {
+    color: #eaa533;
+    font-size: 19px;
+    }
+    .menu_content p {
+        font-size: 15px;
+    }
+    .less{
+        display: none;
+    }
+    .over{
+        display: inline!important;
+    }
+    /* ################-menu section end-######################## */
+    
+    /* ################-best section start-######################## */
+    .best_meal {
+        background-image: url(../images/best_meal.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 75vh;
+        margin-top: 0;
+    }
+    .meal_height {
+        justify-content: flex-end;
+        height: 26rem;
+    }
+    .custom-margin {
+        margin-left: auto;
+    }
+    .meal_content {
+        text-align: center;
+    }
+    .meal_content h5 {
+        margin-top: 20px;
+        line-height: 1.5;
+        color: #1f222f;
+        font-size: 15px;
+    }
+    .meal_content h1 {
+        margin-top: 6%;
+        font-size: 32px;
+        color: #1f222f;
+    }
+    .dark{
+        color: #1f222f;
+    }
+    /* ################-best section end-######################## */
+    
+    /* ################-footer section start-######################## */
+    .bottom_nav ul {
+        display: block!important;
+    }
+    .bottom_nav {
+        margin-top: 20px!important;
+    }
+    .bottom_nav li {
+        list-style: none;
+        text-align: center;
+        margin-bottom: 9px;
+    }
+    footer{
+        margin-bottom: 20px;
+    }
+    .icons li {
+        height: 33px;
+        width: 33px;
+        line-height: 36px;
+    }
+    .icons i {
+        font-size: 21px;
+    }
+    
+    }
+
+    @media(min-width:385px) and (max-width:424.98px){
+        .top{
+            display: inline;
+        }
+          /* ################-navbar section start-######################## */
+    header {
+        height: auto;
+        padding-bottom: 36px;
+    }
+    .logo-center {
+        display: none;
+    }
+    .logo-left {
+        margin-bottom: 13px;
+        display: inline-block;
+    }
+    
+    /* ################-navbar section end-######################## */
+    
+    /* ################-banner section start-######################## */
+    .piza_content {
+        margin-left: 0px;
+        text-align: center;
+        /* margin-bottom: 59px!important; */
+    }
+    .piza_content h1 {
+        color: #e9a438;
+        text-transform: capitalize;
+        font-weight: bold;
+        font-size: 25pt;
+        padding-right: 0px;
+    }
+    .piza_content p {
+        color: white;
+        font-weight: 600;
+        padding-right: 0px;
+        margin: 14px 0;
+    }
+    /* ################-banner section end-######################## */
+    
+    /* ################-about-us section start-######################## */
+    .about_us {
+        margin-bottom: 37px;
+    }
+    .about_content {
+        text-align: center;
+    }
+    .about_content h5 {
+        font-size: 1rem;
+    }
+    /* ################-about-us section end-######################## */
+    
+    /* ################-our-food section start-######################## */
+    .food_content h1 {
+        /* font-size: 34pt; */
+        /* margin-bottom: 20px; */
+        font-size: 34px;
+    }
+    .o_hg {
+        height: 53vh;
+    }
+    .food_content h5 {
+        font-size: 1rem;
+    }
+    .our_food {
+        background-image: url(../images/enjoy.png);
+        background-size: cover;
+        background-position: center;
+    }
+    .food_content {
+        /* margin-top: -400px; */
+        margin-bottom: 0;
+        text-align: center!important;
+    }
+    /* ################-our-food section end-######################## */
+    
+    /* ################-gallery section start-######################## */
+    .gallery_content h1{
+        font-size: 34px;
+    }
+    /* ################-gallery section end-######################## */
+    
+    /* ################-enjoy section start-######################## */
+    .enjoy {
+        min-height: 55vh;
+    }
+    .custom_height_1 {
+        height: 0;
+    }
+    .enjoy_content {
+        border: 5px solid #eaa533;
+        padding: 9px 4px;
+        margin-top: 22%;
+    }
+    .enjoy_content h1{
+    font-size: 35px;
+    }
+    .enjoy_content h5{
+    font-size: 16px;
+    }
+/* ################-enjoy section end-######################## */
+    
+/* ################-menu section start-######################## */
+    .menu_header {
+        padding-top: 36px;
+        padding-bottom: 25px;
+    }
+    .menu_img ul {
+        left: 24%;
+    }
+    .all-menu:hover .menu_img ul {
+    top: 20%;
+    opacity: 1;
+    }
+    .menu_img li {
+    list-style: none;
+    font-size: 21px;
+    color: #ffffff;
+    text-align: center;
+    }
+    .menu_content {
+        text-align: center;
+        margin-bottom: 27px;
+    }
+    .menu_content a {
+        color: #eaa533;
+        text-transform: uppercase;
+        font-size: 1.25rem;
+    }
+    .menu_content h6 {
+    color: #eaa533;
+    font-size: 19px;
+    }
+    .menu_content p {
+        font-size: 15px;
+    }
+    .less{
+        display: none;
+    }
+    .over{
+        display: inline!important;
+    }
+    /* ################-menu section end-######################## */
+    
+    /* ################-best section start-######################## */
+    .best_meal {
+        background-image: url(../images/best_meal.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 75vh;
+        margin-top: 0;
+    }
+    .meal_height {
+        justify-content: flex-end;
+        height: 26rem;
+    }
+    .custom-margin {
+        margin-left: auto;
+    }
+    .meal_content {
+        text-align: center;
+    }
+    .meal_content h5 {
+        margin-top: 20px;
+        line-height: 1.5;
+        color: #1f222f;
+        font-size: 15px;
+    }
+    .meal_content h1 {
+        margin-top: 6%;
+        font-size: 31px;
+        color: #1f222f;
+    }
+    .dark{
+        color: #1f222f;
+    }
+    /* ################-best section end-######################## */
+    
+    /* ################-footer section start-######################## */
+    .bottom_nav ul {
+        display: block!important;
+    }
+    .bottom_nav {
+        margin-top: 20px!important;
+    }
+    .bottom_nav li {
+        list-style: none;
+        text-align: center;
+        margin-bottom: 9px;
+    }
+    footer{
+        margin-bottom: 20px;
+    }
+    .icons li {
+        height: 33px;
+        width: 33px;
+        line-height: 36px;
+    }
+    .icons i {
+        font-size: 21px;
+    }
+    
+    }
+
+    /* For mobile s-320px (.col) */
+    @media(min-width:320px) and (max-width:384.98px){
+        .top{
+            display: inline!important;
+        }
+    /* ################-navbar section start-######################## */
+    header {
+        height: auto;
+    }
+    .logo-center {
+        display: none;
+    }
+    .logo-left {
+        margin-bottom: 13px;
+        display: inline-block;
+    }
+    
+    /* ################-navbar section end-######################## */
+    
+    /* ################-banner section start-######################## */
+    .piza_content {
+        margin-left: 0px;
+        text-align: center;
+        margin-bottom: 43px!important;
+    }
+    .piza_content h1 {
+        color: #e9a438;
+        text-transform: capitalize;
+        font-weight: bold;
+        font-size: 25pt;
+        padding-right: 0px;
+    }
+    .piza_content p {
+        color: white;
+        font-weight: 600;
+        padding-right: 0px;
+        margin: 14px 0;
+    }
+    /* ################-banner section end-######################## */
+    
+    /* ################-about-us section start-######################## */
+    .about_us {
+        margin-bottom: 37px;
+    }
+    .about_content {
+        text-align: center;
+    }
+    .about_content h5 {
+        font-size: 1rem;
+    }
+    /* ################-about-us section end-######################## */
+    
+    /* ################-our-food section start-######################## */
+    .food_content h1 {
+        /* font-size: 34pt; */
+        /* margin-bottom: 20px; */
+        font-size: 26px;
+    }
+    .o_hg {
+        height: auto;
+    }
+    .food_content h5 {
+        font-size: 1rem;
+    }
+    .our_food {
+        background-image: url(../images/enjoy.png);
+        background-size: cover;
+        background-position: center;
+    }
+    .food_content {
+        text-align: center!important;
+        margin: 22% 0px;
+    }
+    /* ################-our-food section end-######################## */
+    
+    /* ################-gallery section start-######################## */
+    .gallery_content h1{
+        font-size: 34px;
+    }
+    /* ################-gallery section end-######################## */
+    
+    /* ################-enjoy section start-######################## */
+    .enjoy {
+        /* min-height: 50vh; */
+    }
+    .custom_height_1 {
+        height: auto;
+    }
+    .enjoy_content {
+        border: 5px solid #eaa533;
+        padding: 9px 4px;
+        margin-bottom: 13%!important;
+    }
+    .enjoy_content h1{
+    font-size: 35px;
+    }
+    .enjoy_content h5{
+    font-size: 16px;
+    }
+/* ################-enjoy section end-######################## */
+    
+/* ################-menu section start-######################## */
+    .menu_header {
+        padding-top: 36px;
+        padding-bottom: 25px;
+    }
+    .menu_img ul {
+        left: 16%;
+    }
+    .all-menu:hover .menu_img ul {
+    top: 20%;
+    opacity: 1;
+    }
+    .menu_img li {
+    list-style: none;
+    font-size: 21px;
+    color: #ffffff;
+    text-align: center;
+    }
+    .menu_content {
+        text-align: center;
+        margin-bottom: 27px;
+    }
+    .menu_content a {
+        color: #eaa533;
+        text-transform: uppercase;
+        font-size: 15px;
+    }
+    .menu_content h6 {
+    color: #eaa533;
+    font-size: 16px;
+    }
+    .menu_content p {
+        font-size: 14px;
+    }
+    .less{
+        display: none;
+    }
+    /* ################-menu section end-######################## */
+    
+    /* ################-best section start-######################## */
+    .best_meal {
+        background-image: url(../images/best_meal.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 75vh;
+        margin-top: 0;
+    }
+    .meal_height {
+        justify-content: flex-end;
+        height: 22rem;
+    }
+    .custom-margin {
+        margin-left: auto;
+    }
+    .meal_content {
+        text-align: center;
+    }
+    .meal_content h5 {
+        margin-top: 20px;
+        line-height: 1.5;
+        color: #1f222f;
+        font-size: 15px;
+    }
+    .meal_content h1 {
+        margin-top: 6%;
+        font-size: 31px;
+        color: #1f222f;
+    }
+    /* ################-best section end-######################## */
+    
+    /* ################-footer section start-######################## */
+    .bottom_nav ul {
+        display: block!important;
+    }
+    .bottom_nav {
+        margin-top: 20px!important;
+    }
+    .bottom_nav li {
+        list-style: none;
+        text-align: center;
+        margin-bottom: 9px;
+    }
+    footer{
+        margin-bottom: 20px;
+    }
+    .icons li {
+        height: 33px;
+        width: 33px;
+        line-height: 36px;
+    }
+    .icons i {
+        font-size: 21px;
+    }
+    /* ################-footer section end-######################## */
+    }
